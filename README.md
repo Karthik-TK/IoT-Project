@@ -1,4 +1,4 @@
-PROJECT TITLE : "IoT Based Global Industrial Process Monitoring through Raspberry Pi"
+# PROJECT TITLE : "IoT Based Global Industrial Process Monitoring through Raspberry Pi"
 
 Tools and Technologies Used: Raspberry Pi 3, Sensors, App Inventor, Python script.
 
