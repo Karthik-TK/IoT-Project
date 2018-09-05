@@ -80,8 +80,8 @@ def message():
 
 # Sending a message to a particular Number
 
-    port.write('AT+CMGS="8861747499"'+'\r')
-    print "SENDING TO 8861747499"
+    port.write('AT+CMGS="1234567890"'+'\r')
+    print "SENDING TO 1234567890"
     rcv = port.read(10)
     print rcv 
     time.sleep(1)
